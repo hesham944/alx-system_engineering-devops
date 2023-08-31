@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:staff 'In -s /tmp/h/_hello'
+sudo chown vincent:staff 'In  /tmp/h/_hello'
