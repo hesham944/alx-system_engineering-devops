@@ -1,2 +1,2 @@
 #!/bin/bash
-ls  /tmp  -Artls | head -10
+ls  /tmp  -tl | head -10
